@@ -1,0 +1,11 @@
+C:\Users\pirt863\source\repos\FamilyFeud\bin\Debug\FamilyFeud.exe.config
+C:\Users\pirt863\source\repos\FamilyFeud\bin\Debug\FamilyFeud.exe
+C:\Users\pirt863\source\repos\FamilyFeud\bin\Debug\FamilyFeud.pdb
+C:\Users\pirt863\source\repos\FamilyFeud\obj\Debug\FamilyFeud.csprojAssemblyReference.cache
+C:\Users\pirt863\source\repos\FamilyFeud\obj\Debug\FamilyFeud.Form1.resources
+C:\Users\pirt863\source\repos\FamilyFeud\obj\Debug\FamilyFeud.Properties.Resources.resources
+C:\Users\pirt863\source\repos\FamilyFeud\obj\Debug\FamilyFeud.csproj.GenerateResource.cache
+C:\Users\pirt863\source\repos\FamilyFeud\obj\Debug\FamilyFeud.exe
+C:\Users\pirt863\source\repos\FamilyFeud\obj\Debug\FamilyFeud.pdb
+C:\Users\pirt863\source\repos\FamilyFeud\obj\Debug\FamilyFeud.Form2.resources
+C:\Users\pirt863\source\repos\FamilyFeud\obj\Debug\FamilyFeud.csproj.CoreCompileInputs.cache

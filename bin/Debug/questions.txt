@@ -1,0 +1,31 @@
+@Question1
+Warm Weather,39
+Lighter CLothes,17
+Activites,10
+Beach,10
+Fun,6
+No Snow,4
+Swimming,3
+Happier,2
+@Question2
+Sleep,36
+Exercise,18
+Read,16
+Shop,13
+Bank,11
+Phone,8
+@Question3
+Sugar,26
+Lawn Mower,18
+Ladder,13
+Shovle,10
+Tools,8
+Phone,5
+@Question4
+Birthday,38
+New Year,16
+Anniversary,14
+Days,10
+Meal,9
+Go Lucky,8
+@Please only use 4 questions, and make sure the @ lines stay inbetween the questions.
