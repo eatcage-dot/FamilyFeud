@@ -174,7 +174,6 @@
             this.button9.Size = new System.Drawing.Size(117, 50);
             this.button9.TabIndex = 12;
             this.button9.Text = "Next Round";
-            this.button9.Font = new System.Drawing.Font("Microsoft Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button9.UseVisualStyleBackColor = true;
             this.button9.Click += new System.EventHandler(this.button9_Click);
             // 
